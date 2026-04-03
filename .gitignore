@@ -1,1 +1,4 @@
 app
+*.pdf
+*.docx
+*.pptx
